@@ -14,7 +14,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.3
 mkl-fft
 mkl-random
-mkl-service==2.3.0
+mkl-service
 msgpack==1.0.0
 numpy==1.18.1
 phe==1.4.0
