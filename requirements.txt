@@ -27,7 +27,7 @@ python-socketio==4.4.0
 requests==2.22.0
 scikit-learn==0.22.1
 scipy
-sip==4.19.13
+sip
 six==1.14.0
 syft==0.2.3a3
 syft-proto==0.2.1a1.post2
