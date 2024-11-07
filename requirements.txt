@@ -26,7 +26,7 @@ python-engineio==3.11.2
 python-socketio==4.4.0
 requests==2.22.0
 scikit-learn==0.22.1
-scipy==1.4.1
+scipy
 sip==4.19.13
 six==1.14.0
 syft==0.2.3a3
